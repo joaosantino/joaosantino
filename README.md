@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<!---[<img src="https://open.spotify.com/playlist/2Ath28u0zv6iDJ7Dw0MROq?si=c599895da0ed4e60" alt="This playlist defines me" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/2Ath28u0zv6iDJ7Dw0MROq?si=c599895da0ed4e60) --->>
+<!---[<img src="https://open.spotify.com/playlist/2Ath28u0zv6iDJ7Dw0MROq?si=c599895da0ed4e60" alt="This playlist defines me" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/playlist/2Ath28u0zv6iDJ7Dw0MROq?si=c599895da0ed4e60) --->
 
-[<img src="https://open.spotify.com/embed/playlist/2Ath28u0zv6iDJ7Dw0MROq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></img>](https://open.spotify.com/playlist/2Ath28u0zv6iDJ7Dw0MROq?si=c599895da0ed4e60)
+[<img src="https://mosaic.scdn.co/640/ab67616d0000b273288d32d88a616b9a278ddc07ab67616d0000b273bac677eb6cb459c692cc276eab67616d0000b273bc1c63a5b66ab9ac3ea21672ab67616d0000b273fbcaf7402f38faac27610efc" width="100" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></img>](https://open.spotify.com/playlist/2Ath28u0zv6iDJ7Dw0MROq?si=c599895da0ed4e60)
