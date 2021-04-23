@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaosantino
 - 👀 I’m interested in IaC, Java and Python
-- 🌱 I’m currently learning IaC(Terraform and CloudFormation), Python
+- 🌱 I’m currently learning IaC(Terraform and CloudFormation), Python and improving my Java skills
 - 💞️ I’m looking to collaborate on IaC
 - 📫 How to reach me https://www.linkedin.com/in/joaosantino/
 
