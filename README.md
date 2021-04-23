@@ -1,3 +1,5 @@
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 80px;">
+
 - 👋 Hi, I’m @joaosantino
 - 👀 I’m interested in IaC, Java and Python
 - 🌱 I’m currently learning IaC(Terraform and CloudFormation), Python and improving my Java skills
