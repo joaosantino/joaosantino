@@ -1,4 +1,4 @@
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif"  style="width: 100px; height: 40px">
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif"  width="100px" height="40px">
 
 - 👋 Hi, I’m @joaosantino
 - 👀 I’m interested in IaC, Java and Python
